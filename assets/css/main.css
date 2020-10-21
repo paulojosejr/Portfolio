@@ -2293,7 +2293,7 @@ input, select, textarea {
 		}
 
 		.icon.solid:before {
-			font-weight: 900 !important;
+			font-weight: 200 !important;
 		}
 
 		.icon.brands:before {
@@ -2301,15 +2301,15 @@ input, select, textarea {
 		}
 
 		.icon.style1:before {
-			color: #c3e895;
+			color: rgba(255, 234, 47, 0.774);
 		}
 
 		.icon.style2:before {
-			color: #8addaa;
+			color: #fa7629ec;
 		}
 
 		.icon.style3:before {
-			color: #6bd4c8;
+			color: #3628f7;
 		}
 
 		.icon.style4:before {
@@ -2317,11 +2317,11 @@ input, select, textarea {
 		}
 
 		.icon.style5:before {
-			color: #4a87d3;
+			color: #7610d4;
 		}
 
 		.icon.style6:before {
-			color: #6b88e6;
+			color: #d26be6;
 		}
 
 		.icon.major {
@@ -2341,7 +2341,7 @@ input, select, textarea {
 				text-rendering: auto;
 				line-height: 1;
 				text-transform: none !important;
-				font-family: 'Font Awesome 5 Free';
+				font-family: 'Font Awesome 5 Free', 'Font Awesome 5 Brands';
 				font-weight: 400;
 			}
 
