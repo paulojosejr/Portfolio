@@ -2817,10 +2817,12 @@ input, select, textarea {
 		}
 
 		.main.style2 {
+			padding: center;
 			background-color: #333;
 			color: rgba(255, 255, 255, 0.75);
 			background-attachment: fixed,							fixed;
-			background-size: auto,							cover;
+			background-size: auto,						cover;
+
 		}
 
 			.main.style2 a {
